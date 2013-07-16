@@ -1,0 +1,16 @@
+#indicator{
+	color: #d4d4d4;
+	font-size: 70px;
+}
+
+#instructions{
+	margin-top: 10px;
+}
+
+#playButtons{
+	margin-top: 10px;
+}
+
+#guitarapp{
+	border: black solid;
+}
